@@ -1,7 +1,9 @@
 # My-political-views
 Some thoughts on politics. Feel free to share your thoughts.
+
 8values.github.io
 Option Explanation
+
 Question: Corporate oppression is more concerning than government oppression.
 Neutral
 Explanation: Reality is difficult to define and requires analysis on a case-by-case basis. In some large companies, the 996 work schedule is corporate oppression, while in state-owned enterprises, it is government oppression. Ultimately, this depends on who holds the power; the powerful will oppress the weak, regardless of whether the powerful act with subjective intent.
